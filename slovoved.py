@@ -14,7 +14,7 @@ for i in range(j):
     pass
 	
 	
-words = ["test", "wild", "hello", "world", "word", "mississisipi", "shit", "Ksed", "Line"]	
+words = ["test", "wild", "hello", "world", "word", "Mississisipi", "shit", "Ksed", "Line"]	
 
 
 for i in range(j):
